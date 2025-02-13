@@ -12,6 +12,6 @@ This repository contains a simple setup for a Kafka cluster with Zookeeper and K
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/xuanthanh0908/kafka-kafdrop.git
+   cd https://github.com/xuanthanh0908/kafka-kafdrop.git
    ```
